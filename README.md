@@ -1,7 +1,7 @@
 # Analyse Growth & Provide Insights To The Telangana Government
 ### About The Project:
 
-Analyzing the growth of Telangana across various sectors, such as Document Registration/Estamps and Transportation/Investment and to the Telangana government that would help them to make data-informed decisions that would further support the growth of the state.
+Analyzing the growth of Telangana across various sectors, such as Document Registration/Estamps and Transportation/Investment and providing insights to the Telangana government that would help them to make data-informed decisions that would further support the growth of the state.
 
 # Video Presentation Of The Project
 https://www.linkedin.com/posts/nidhi-pujari-b74843216_codebasicsresumeprojectchallenge-opendatatelangana-activity-7115183757736771587--Yq9?utm_source=share&utm_medium=member_desktop
